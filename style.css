@@ -439,3 +439,6 @@ footer .socials > * {
 footer .socials > *:not(:first-child) {
   margin-left: 1.3rem;
 }
+
+@media screen and (min-width: 56em) {
+}
