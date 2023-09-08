@@ -441,10 +441,10 @@ footer .socials > *:not(:first-child) {
 .hidden {
   opacity: 0;
   filter: blur(5px);
-  transition: all 1s ease-in;
-  -moz-transition: all 1s ease-in;
-  -webkit-transition: all 1s ease-in;
-  -o-transition: all 1s ease-in;
+  transition: all 0.7s ease-in;
+  -moz-transition: all 0.7s ease-in;
+  -webkit-transition: all 0.7s ease-in;
+  -o-transition: all 0.7s ease-in;
   transition-delay: 0.2s;
   -moz-transition-delay: 0.2s;
   -webkit-transition-delay: 0.2s;
