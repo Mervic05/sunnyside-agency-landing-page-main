@@ -462,14 +462,14 @@ footer .socials > *:not(:first-child) {
   opacity: 1;
   filter: blur(0);
 }
-@media (prefers-reduced-motion: reduced) {
+/* @media (prefers-reduced-motion: reduced) {
   .hidden {
     transition: none;
     -webkit-transition: none;
     -moz-transition: none;
     -o-transition: none;
   }
-}
+} */
 
 /******* MEDIA QUERIES *******/
 @media screen and (min-width: 56em) {
